@@ -1,0 +1,12 @@
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/bin/Debug/net5.0/HepsiYemekApi.Common.deps.json
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/bin/Debug/net5.0/HepsiYemekApi.Common.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/bin/Debug/net5.0/ref/HepsiYemekApi.Common.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/bin/Debug/net5.0/HepsiYemekApi.Common.pdb
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.csproj.AssemblyReference.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.AssemblyInfoInputs.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.AssemblyInfo.cs
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.csproj.CoreCompileInputs.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/ref/HepsiYemekApi.Common.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/Debug/net5.0/HepsiYemekApi.Common.pdb

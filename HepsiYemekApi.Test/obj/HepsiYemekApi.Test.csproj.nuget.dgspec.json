@@ -1,0 +1,776 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test/HepsiYemekApi.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj",
+        "projectName": "HepsiYemekApi.Business",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj",
+        "projectName": "HepsiYemekApi.Common",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj",
+        "projectName": "HepsiYemekApi.Core",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj",
+        "projectName": "HepsiYemekApi.Data",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj",
+        "projectName": "HepsiYemekApi.DataAccess",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj",
+        "projectName": "HepsiYemekApi.Dto",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/HepsiYemekApi.Dto.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Dto/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj",
+        "projectName": "HepsiYemekApi.Entitiy",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/HepsiYemekApi.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/HepsiYemekApi.IoC.csproj",
+        "projectName": "HepsiYemekApi.IoC",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/HepsiYemekApi.IoC.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Core/HepsiYemekApi.Core.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.DataAccess/HepsiYemekApi.DataAccess.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj",
+        "projectName": "HepsiYemekApi.Repository",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/HepsiYemekApi.Repository.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Common/HepsiYemekApi.Common.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/HepsiYemekApi.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test/HepsiYemekApi.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test/HepsiYemekApi.Test.csproj",
+        "projectName": "HepsiYemekApi.Test",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test/HepsiYemekApi.Test.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Business/HepsiYemekApi.Business.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/HepsiYemekApi.WebApi.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/HepsiYemekApi.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/HepsiYemekApi.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/HepsiYemekApi.WebApi.csproj",
+        "projectName": "HepsiYemekApi.WebApi",
+        "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/HepsiYemekApi.WebApi.csproj",
+        "packagesPath": "/Users/mehmettas/.nuget/packages/",
+        "outputPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmettas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Data/HepsiYemekApi.Data.csproj"
+              },
+              "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/HepsiYemekApi.IoC.csproj": {
+                "projectPath": "/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.IoC/HepsiYemekApi.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0-preview.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

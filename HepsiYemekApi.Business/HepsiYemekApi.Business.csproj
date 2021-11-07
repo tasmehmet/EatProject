@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HepsiYemekApi.DataAccess\HepsiYemekApi.DataAccess.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.Dto\HepsiYemekApi.Dto.csproj" />
+    </ItemGroup>
+
+</Project>

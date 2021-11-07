@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="6.3.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0-rc.2.21480.5" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0-rc.2.21480.5" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0-rc.2.21480.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HepsiYemekApi.Business\HepsiYemekApi.Business.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.Core\HepsiYemekApi.Core.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.DataAccess\HepsiYemekApi.DataAccess.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.Data\HepsiYemekApi.Data.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.Entitiy\HepsiYemekApi.Entitiy.csproj" />
+      <ProjectReference Include="..\HepsiYemekApi.Repository\HepsiYemekApi.Repository.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="AutoFac" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/bin/Debug/net5.0/HepsiYemekApi.Entitiy.deps.json
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/bin/Debug/net5.0/HepsiYemekApi.Entitiy.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/bin/Debug/net5.0/ref/HepsiYemekApi.Entitiy.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/bin/Debug/net5.0/HepsiYemekApi.Entitiy.pdb
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.csproj.AssemblyReference.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.AssemblyInfoInputs.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.AssemblyInfo.cs
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.csproj.CoreCompileInputs.cache
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/ref/HepsiYemekApi.Entitiy.dll
+/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Entitiy/obj/Debug/net5.0/HepsiYemekApi.Entitiy.pdb

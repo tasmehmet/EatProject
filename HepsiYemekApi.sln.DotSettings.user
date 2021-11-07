@@ -1,0 +1,40 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=66227436_002D9a79_002D4feb_002D94bd_002D0c0cf4d939ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductAll_ActionExecutes_ReturnOkWithProducts #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductAll_ActionExecutes_ReturnOkWithProducts&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductById_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnCreated&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a131503_002Dc798_002D4df6_002Da907_002D41192805680d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductAll_ActionExecutes_ReturnOkWithProducts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductAll_ActionExecutes_ReturnOkWithProducts&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductById_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83840e39_002Dcd0d_002D43b2_002Db542_002D8ab076fd4b16/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductAll_ActionExecutes_ReturnOkWithProducts #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductAll_ActionExecutes_ReturnOkWithProducts&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductById_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnCreated&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b3c11ec_002Db6bb_002D40b3_002Dbf4a_002D51f790e62a59/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddProduct_ActionExecutes_ReturnCreated #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/mehmettas/RiderProjects/HepsiYemekApi/HepsiYemekApi.Test" Presentation="&amp;lt;Test&amp;gt;\&amp;lt;HepsiYemekApi.Test&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93e112b0_002D04d9_002D43d8_002D96bd_002Df5d6f348ff66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddProduct_ActionExecutes_ReturnCreated" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnCreated&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c58193e_002D9967_002D4a8c_002D99e1_002D8e6527d918dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductAll_ActionExecutes_ReturnOkWithProducts #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductAll_ActionExecutes_ReturnOkWithProducts&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.GetProductById_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnOkWithProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::EC975099-5C55-4E57-9132-FE286C948925::net5.0::HepsiYemekApi.Test.ProductControllerTest.AddProduct_ActionExecutes_ReturnCreated&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

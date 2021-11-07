@@ -1,3 +1,3 @@
-HepsiYemekApi Uygulamas›n›n çal›ﬂt›r›lmas›
+HepsiYemekApi Uygulamasinin calistirilmasi
 
-Docker uygulamas› kurulu bir bilgisayarda proje içerisinde bulunan “docker-compose.yml” dosyas› terminal üzerinden “docker-compose up” komutu ile çal›ﬂt›r›l›r. Baﬂaral› container kurulumundan sonra proje build al›narak çal›ﬂt›r›l›r.
+Docker uygulamasi kurulu bir bilgisayarda proje icerisinde bulunan 'docker-compose.yml' dosyasi terminal uzerinden 'docker-compose up' komutu ile calistirilabilir. Basarili container kurulumundan sonra proje build alinarak calistirilabilir.
